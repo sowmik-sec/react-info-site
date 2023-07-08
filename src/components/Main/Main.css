@@ -15,3 +15,9 @@
   line-height: 19px;
   padding-block: 10px;
 }
+ul li::marker {
+  color: #61dafb;
+  content: "\2022";
+  font-size: 1.4rem;
+  margin-right: 0.5em;
+}
