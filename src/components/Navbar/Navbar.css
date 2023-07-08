@@ -1,0 +1,20 @@
+.nav-bar {
+  background-color: #21222a;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 26px;
+}
+.nav-logo {
+  display: flex;
+  align-items: center;
+}
+.nav-logo > h3 {
+  color: white;
+  margin-left: 10px;
+  font-size: 22px;
+}
+.course {
+  font-size: 20px;
+  color: white;
+}
