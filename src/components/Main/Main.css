@@ -1,6 +1,10 @@
 .main-div {
   padding: 57px 27px;
   color: white;
+  background-image: url("./react.png");
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-position: right 75%;
 }
 .main--title {
   margin: 0;
